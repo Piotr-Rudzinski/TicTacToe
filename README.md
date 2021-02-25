@@ -11,7 +11,7 @@ A method, that *checks* the result of the game, was added. It concatenates chars
 
 (one by one) and compares it with a pattern.
 
-##Another solution
+### Another solution
 
 Sum an ASCII representation of chars in row, column, diagonally and copare it with a pattern
 
